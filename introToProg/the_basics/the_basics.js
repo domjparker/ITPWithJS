@@ -31,12 +31,12 @@ console.log(fullName)
 // 4
 
 3.
-'true' = string
-false = boolean
-1.5 = number
-2 = number
-undefined = undefined
-{ foo: 'bar' } = object
+// 'true' = string
+// false = boolean
+// 1.5 = number
+// 2 = number
+// undefined = undefined
+// { foo: 'bar' } = object
 
 4.
 let foo; // statement
